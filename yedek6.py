@@ -8,7 +8,7 @@ from colorama import Fore, init, Style
 
 init(autoreset=True)
 
-WEBHOOK_URL = "WEBHOOK_URLUNUZ"  # Discord webhook URL'nizi girin
+WEBHOOK_URL = "WEBHOOK_URLUNUZ"  
 MAX_THREADS = 500
 HTTP_TIMEOUT = 5
 STATS_REFRESH = 2
